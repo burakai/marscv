@@ -1,0 +1,20 @@
+title: MARS
+description: Marble Analysis and Robotic Slicing <
+baseurl: ""
+url: https://marscv.com
+
+theme: hacked-jekyll
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  
